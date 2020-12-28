@@ -5,6 +5,7 @@
 Home Credit, a consumer finance provider that lends primarily to people with little or no credit history, hosted a competition on Kaggle to help it predict probability of default based on client's data. This github project was aimed at uncovering full data insights (without domain knowledge for feature engineering) and building machine learning models based on the full set of data.
 
 ## Dataset
+Data is available at https://www.kaggle.com/c/home-credit-default-risk/data
 There are 7 datasets available:
 1. application train and test data.
    This is a primary dataset with target (default or not) in the training dataset and has the current credit history of its clients. The primary key in this table is SK_ID_CURR.
