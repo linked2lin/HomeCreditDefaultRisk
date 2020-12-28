@@ -1,5 +1,5 @@
 # HomeCreditDefaultRisk (Python) by Lin He
-### **How likely is Home Credit's loan owner going to default?**
+### **How likely are Home Credit's loan owners going to default?**
 
 ## Purpose
 Home Credit, a consumer finance provider that lends primarily to people with little or no credit history, hosted a competition on Kaggle to help it predict probability of default based on client's data. This github project was aimed at uncovering full data insights (without domain knowledge for feature engineering) and building machine learning models based on the full set of data.
